@@ -1,1 +1,2 @@
-coverage path planning/bitmap_image.hpp
+include/common/bitmap_image.hpp
+build/
